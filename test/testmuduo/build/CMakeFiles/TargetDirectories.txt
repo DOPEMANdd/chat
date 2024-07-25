@@ -1,0 +1,3 @@
+/data/zhangdi/code_demo/chat_demo/testmuduo/build/CMakeFiles/server.dir
+/data/zhangdi/code_demo/chat_demo/testmuduo/build/CMakeFiles/edit_cache.dir
+/data/zhangdi/code_demo/chat_demo/testmuduo/build/CMakeFiles/rebuild_cache.dir
